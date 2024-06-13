@@ -1,7 +1,7 @@
 # WAF and DoS Checker Extension for Burp Suite
 
 This Burp Suite extension allows you to insert custom payloads for bypassing Web Application Firewalls (WAF) and testing Denial of Service (DoS) vulnerabilities by inserting large amounts of data into HTTP requests.
-
+![Illustration of WAF and DoS Checker Extension](./Dos.webp)
 ## Features
 
 - Insert WAF Bypass payloads of sizes ranging from 8 KB to 1024 KB, including custom sizes.
